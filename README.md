@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>RHN CPTL —  Perusahaan Keuangan</title>
+  <title>RHN CPTL   Perusahaan Keuangan</title>
   <meta name="description" content="RHN CPTL adalah perusahaan yang bergerak di bidang keuangan, portofolio, dan PEPE Coin 100%.">
   <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" />
 
