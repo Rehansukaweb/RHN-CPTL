@@ -1,6 +1,5 @@
 # rehan-web
 SELAMAT DATA DI WEB RHN CPTL
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
