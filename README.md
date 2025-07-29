@@ -109,8 +109,8 @@
   </div>
 
   <footer>
-    &copy; 2025 RHN CPTL. Dibangun oleh Mohamed O.
+    &copy; 2025 RHN CPTL. Dibangun oleh RHN CPTL
   </footer>
-halaman2.html
+
 </body>
 </html>
