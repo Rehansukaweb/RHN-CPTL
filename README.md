@@ -78,7 +78,7 @@
 <body>
 
 <header>
-  <h1>RHN CPTL</h1>
+  <title>RHN CPTL</title>
   <p>Perusahaan yang Bergerak di Bidang Keuangan dan Aset Digital</p>
 </header>
 
