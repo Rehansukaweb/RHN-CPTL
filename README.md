@@ -1,5 +1,4 @@
-SELAMAT DATANG
-RHN CPTL
+RHN CAPITAL
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -35,8 +34,8 @@ RHN CPTL
 </head>
 <body>
   <h1>RHN CPTL</h1>
-  <p>Kami adalah perusahaan yang fokus pada</p>
-  <p><strong>pengelolaan portofolio secara mandiri</strong></p>
+  <p>PERUSAHAAN</p>
+  <p><strong>FINANCE</strong></p>
 
   <div class="kontak">
     📞 Kontak: 0857 1742 6626
