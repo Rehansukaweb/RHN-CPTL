@@ -1,5 +1,5 @@
-# rehan-web
-SELAMAT DATA DI WEB RHN CPTL
+SELAMAT DATANG
+RHN CPTL
 <html lang="id">
 <head>
   <meta charset="UTF-8">
