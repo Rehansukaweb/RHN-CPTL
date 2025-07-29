@@ -29,7 +29,7 @@
     }
 
     h1, h2 {
-      color: #1a237e;
+      color: white;
     }
 
     .btn {
