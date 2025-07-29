@@ -94,7 +94,7 @@
   <h1>RHN CPTL</h1>
   <h2>Perusahaan Keuangan</h2>
 
-  <p>RHN CPTL ADALAH PERUSAHAAN YANG BERGERAK DI BIDANG KEUANGAN, PENGELOLAA PORTOFOLIO, DAN INVESTADI<strong>CTYPTO</strong>. Kami fokus membantu individu muda dalam membangun masa depan keuangan yang mandiri, aman, dan berani mengambil peluang digital modern.</p>
+  <p>RHN CPTL ADALAH PERUSAHAAN YANG BERGERAK DI BIDANG KEUANGAN, PENGELOLAA PORTOFOLIO, DAN INVESTADI<strong>CTYPTO</strong>. KAMI BERFOKUS DALAM MEMBANGUN MASA DEPAN KEUANGAN YANG MANDIRI,AMAN,DAN BERANI MENGAMBIL PELUANG MODERN  .</p>
 
   <div class="pepe-image">
     <a href="https://coinmarketcap.com/currencies/pepe/" target="_blank">
