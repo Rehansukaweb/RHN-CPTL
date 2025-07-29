@@ -107,7 +107,7 @@
 
   <h2>Kontak</h2>
   <div class="contact">
-    <p>📞 WhatsApp: <a href="https://wa.me/6285717826626" target="_blank">085717826626</a></p>
+    <p>📞 WhatsApp: <a href="https://wa.me/6285717426626" target="_blank">085717826626</a></p>
     <p>📷 Instagram: <a href="https://instagram.com/huyrehan" target="_blank">@huyrehan</a></p>
   </div>
 
