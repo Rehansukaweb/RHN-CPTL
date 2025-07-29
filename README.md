@@ -1,116 +1,122 @@
-
+<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>RHN CPTL</title>
-  <meta name="description" content="RHN CPTL adalah perusahaan yang bergerak di bidang keuangan, portofolio, dan PEPE Coin 100%.">
-  <link rel="icon" href="https://upload.wikimedia.org/wikipedia/commons/4/48/BLANK_ICON.png" />
-
+  <title>RHN CPTL - Perusahaan Keuangan</title>
   <style>
     body {
-      margin: 0;
       font-family: Arial, sans-serif;
-      background-color: #111;
-      color: #fff;
+      background-color: #f4f6f7;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: #1a237e;
+      color: white;
       text-align: center;
       padding: 40px 20px;
     }
 
-    h1 {
-      font-size: 3em;
-      color: #00ffc3;
-      margin-bottom: 10px;
+    section {
+      max-width: 900px;
+      margin: 30px auto;
+      background-color: white;
+      padding: 30px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.1);
     }
 
-    h2 {
-      color: #ccc;
-      font-weight: normal;
-      font-size: 1.5em;
+    h1, h2 {
+      color: #1a237e;
     }
 
-    p {
-      max-width: 600px;
-      margin: 20px auto;
-      font-size: 1.1em;
-      line-height: 1.6;
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 12px 24px;
+      background-color: #007bff;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
     }
 
-    .contact {
-      margin-top: 30px;
+    .portfolio {
+      margin-top: 20px;
+      background: #e8f5e9;
+      padding: 15px;
+      border-left: 5px solid #4caf50;
+    }
+
+    footer {
+      background-color: #1a237e;
+      color: white;
+      text-align: center;
+      padding: 20px;
+      margin-top: 40px;
+    }
+
+    img.pepe {
+      max-width: 150px;
+      display: block;
+      margin: 15px auto;
     }
 
     .contact a {
-      color: #00ffc3;
+      display: inline-block;
+      margin: 5px 10px;
+      color: #007bff;
       text-decoration: none;
-      font-size: 1.2em;
     }
 
     .contact a:hover {
       text-decoration: underline;
     }
-
-    .button {
-      margin-top: 20px;
-      padding: 10px 20px;
-      background-color: #00ffc3;
-      border: none;
-      border-radius: 8px;
-      font-weight: bold;
-      cursor: pointer;
-      transition: 0.3s;
-      color: #000;
-    }
-
-    .button:hover {
-      background-color: #00d0a5;
-    }
-
-    .pepe-image {
-      margin-top: 30px;
-    }
-
-    .pepe-image img {
-      width: 200px;
-      height: auto;
-      border-radius: 12px;
-      box-shadow: 0 0 10px #00ffc3;
-      transition: 0.3s;
-    }
-
-    .pepe-image img:hover {
-      transform: scale(1.05);
-    }
-
-    footer {
-      margin-top: 50px;
-      font-size: 0.9em;
-      color: #777;
-    }
   </style>
 </head>
 <body>
 
+<header>
   <h1>RHN CPTL</h1>
-  <h1>PERUSAHAAN KEUANGAN</h1>
+  <p>Perusahaan yang Bergerak di Bidang Keuangan dan Aset Digital</p>
+</header>
 
-  <p>RHN CPTL ADALAH PERUSAHAAN YANG BERGERAK DI BIDANG KEUANGAN, PENGELOLAAN PORTOFOLIO, DAN INVESTASI<strong>CRYPTO</strong>. KAMI BERFOKUS DALAM MEMBANGUN MASA DEPAN KEUANGAN YANG MANDIRI,AMAN,DAN BERANI MENGAMBIL PELUANG MODERN  .</p>
+<section>
+  <h2>Visi Kami</h2>
+  <p>Menjadi perusahaan mandiri yang sukses mengelola aset digital dan membangun masa depan keuangan berbasis teknologi modern.</p>
 
-  <div class="pepe-image">
+  <h2>Misi Kami</h2>
+  <ul>
+    <li>Mengelola dana secara mandiri dan bertanggung jawab</li>
+    <li>Fokus pada portofolio aset digital yang kuat dan berkelanjutan</li>
+    <li>Mengedukasi dan menginspirasi generasi muda untuk melek keuangan</li>
+  </ul>
+
+  <h2>Deskripsi Perusahaan</h2>
+  <p>RHN CPTL adalah perusahaan keuangan yang dikelola oleh individu muda berbakat dan berani mengambil langkah dalam dunia digital finance. Kami percaya bahwa masa depan berada di tangan mereka yang berani mengambil keputusan hari ini. Dengan fokus pada aset digital PEPE Coin, kami siap tumbuh bersama perkembangan industri blockchain.</p>
+
+  <div class="portfolio">
+    <h3>Portofolio Kami</h3>
+    <p><strong>PEPE Coin — 100%</strong></p>
     <a href="https://coinmarketcap.com/currencies/pepe/" target="_blank">
-      <img src="https://assets.coingecko.com/coins/images/29850/large/pepe-token.png" alt="Pepe Coin">
+      <img src="https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg" alt="PEPE Coin" class="pepe">
     </a>
-    <p style="color:#888; margin-top:10px;">Klik gambar untuk melihat PEPE di CoinMarketCap</p>
+    <p style="text-align:center;"><em>Klik gambar untuk melihat PEPE di CoinMarketCap</em></p>
   </div>
 
+  <h2>Kontak</h2>
   <div class="contact">
-    <p>📞 Hubungi kami: <a href="https://wa.me/6285717426626" target="_blank">0857-1742-6626</a></p>
-    <button class="button" onclick="window.open('https://wa.me/6285717426626', '_blank')">Hubungi via WhatsApp</button>
+    <p>📞 WhatsApp: <a href="https://wa.me/6285717826626" target="_blank">085717826626</a></p>
+    <p>📷 Instagram: <a href="https://instagram.com/huyrehan" target="_blank">@huyrehan</a></p>
   </div>
 
-  <footer>
-    &copy; 2025 RHN CPTL. Dibangun oleh RHN CPTL
-  </footer>
+  <a href="halaman2.html" class="btn">➡ Lihat Halaman Kedua</a>
+</section>
+
+<footer>
+  <p>© 2025 RHN CPTL. All rights reserved.</p>
+</footer>
 
 </body>
 </html>
