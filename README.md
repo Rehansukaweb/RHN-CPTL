@@ -114,7 +114,7 @@
   </div>
 
   <a href="halaman2.html" class="btn">➡ Lihat Halaman Kedua</a>
-  <a href="MY HOBY" class="btn">➡ Lihat Halaman Kedua</a>
+ 
 </section>
 
 <footer>
