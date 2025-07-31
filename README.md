@@ -96,7 +96,7 @@
   </ul>
 
   <h2>Deskripsi Perusahaan</h2>
-  <p>RHN CPTL adalah perusahaan keuangan yang dikelola oleh individu muda berbakat dan berani mengambil langkah dalam dunia digital finance. Kami percaya bahwa masa depan berada di tangan mereka yang berani mengambil keputusan hari ini. Dengan fokus pada aset digital PEPE Coin, kami siap tumbuh bersama perkembangan industri blockchain.</p>
+  <p><strong>RHN CPTL</strong> adalah perusahaan keuangan yang dikelola oleh individu muda berbakat dan berani mengambil langkah dalam dunia digital finance. Kami percaya bahwa masa depan berada di tangan mereka yang berani mengambil keputusan hari ini. Dengan fokus pada aset digital PEPE Coin, kami siap tumbuh bersama perkembangan industri blockchain.</p>
 
   <div class="portfolio">
     <h3>Portofolio Kami</h3>
