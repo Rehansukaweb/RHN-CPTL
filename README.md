@@ -114,6 +114,7 @@
   </div>
 
   <a href="halaman2.html"> class="btn">➡BIODATA RHN CPTL</a>
+  </section>
 
 <footer>
   <p>© 2025 RHN CPTL. All rights reserved.</p>
