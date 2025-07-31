@@ -79,27 +79,27 @@
 
 <header>
   <h1>RHN CPTL</h1>
-  <p>Perusahaan yang Bergerak di Bidang Keuangan dan Aset Digital</p>
+  <p>PERUSAHAAN YANG BERGERAK DI BIDANG KEUANGAN DAN ASET DIGITAL</p>
 </header>
 <div style="text-align:center; margin-top: 20px;">
   <img src="RHN CPTL.png.jpg" alt="Logo RHN" style="width:1000px;">
 </div>
 <section>
-  <h2>Visi Kami</h2>
-  <p>Menjadi perusahaan mandiri yang sukses mengelola aset digital dan membangun masa depan keuangan berbasis teknologi modern.</p>
+  <h2>VISI KAMI</h2>
+  <p>MENJADI PERUSAHAAN MANDIRI YANG SUKSES MENGELOLA ASET DIGITAL DAN MEMBANGUN MASA DEPAN KEUANGAN BERBASIS TEKNOLOGI MODERN.</p>
 
-  <h2>Misi Kami</h2>
+  <h2>MISI KAMI</h2>
   <ul>
-    <li>Mengelola dana secara mandiri dan bertanggung jawab</li>
-    <li>Fokus pada portofolio aset digital yang kuat dan berkelanjutan</li>
-    <li>Mengedukasi dan menginspirasi generasi muda untuk melek keuangan</li>
+    <li>MENGELOLA DANA SECARA MANDIRI DAN BERTANGGUNG JAWAB</li>
+    <li>FOKUS PADA PORTOFOLIO ASET DIGITAL YANG KUAT DAN BERKELANJUTAN</li>
+    <li>MENGEDUKASI DAN MENGINSPIRASI GENERASI MUDA UNTUK MELEK KEUANGAN</li>
   </ul>
 
-  <h2>Deskripsi Perusahaan</h2>
-  <p><strong>RHN CPTL</strong> adalah perusahaan keuangan yang dikelola oleh individu muda berbakat dan berani mengambil langkah dalam dunia digital finance. Kami percaya bahwa masa depan berada di tangan mereka yang berani mengambil keputusan hari ini. Dengan fokus pada aset digital PEPE Coin, kami siap tumbuh bersama perkembangan industri blockchain.</p>
+  <h2>DESKRIPSI PERUSAHAAN</h2>
+  <p><strong>RHN CPTL</strong> ADALAH PERUSAHAAN KEUANGAN YANG DIKELOLA OLEH INDIVIDU MUDA BERBAKAT YANG BERANI MENGAMBIL LANGKAH DALAM DUNIA KEUANGAN DIGITAL.KAMI PERCAYA BAHWA MASA DEPAN BERADA DI TANGAN MEREKA YANG BERANI MENGAMBIL KEPUTUSAN HARI INI.DENGAN FOKUS PADA ASET DIGITAL<strong>PEPE COIN</strong>,KAMI SIAP TUMBUH BERSAMA PERKEMBANGAN INDUSTRI BLOCKCHAIN.</p>
 
-  <div class="portfolio">
-    <h3>Portofolio Kami</h3>
+  <div class="PORTOFOLIO">
+    <h3>PORTOFOLIO KAMI</h3>
     <p><strong>PEPE Coin — 100%</strong></p>
     <a href="https://coinmarketcap.com/currencies/pepe/" target="_blank">
       <img src="https://assets.coingecko.com/coins/images/29850/large/pepe-token.jpeg" alt="PEPE Coin" class="pepe">
@@ -107,13 +107,13 @@
     <p style="text-align:center;"><em>Klik gambar untuk melihat PEPE di CoinMarketCap</em></p>
   </div>
 
-  <h2>Kontak</h2>
+  <h2>KONTAK</h2>
   <div class="contact">
-    <p>📞 WhatsApp: <a href="https://wa.me/6285717426626" target="_blank">085717826626</a></p>
-    <p>📷 Instagram: <a href="https://instagram.com/huyrehan" target="_blank">@huyrehan</a></p>
+    <p>📞 WHATSAPP: <a href="https://wa.me/6285717426626" target="_blank">085717826626</a></p>
+    <p>📷 INSTAGRAM: <a href="https://instagram.com/huyrehan" target="_blank">@huyrehan</a></p>
   </div>
 
-  <a href="halaman2.html" class="btn">➡ Lihat Halaman Kedua</a>
+  <a href="halaman2.html" class="btn">➡ <a>BIODATA RHN CPTL</a>
  
 </section>
 
