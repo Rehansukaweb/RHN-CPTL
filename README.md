@@ -113,9 +113,7 @@
     <p>📷 INSTAGRAM: <a href="https://instagram.com/huyrehan" target="_blank">@huyrehan</a></p>
   </div>
 
-  <a href="halaman2.html" class="btn">➡ <a>BIODATA RHN CPTL</a>
- 
-</section>
+  <a href="halaman2.html" class="btn">➡ <a>BIODATA RHN CPTL</a></section>
 
 <footer>
   <p>© 2025 RHN CPTL. All rights reserved.</p>
