@@ -82,7 +82,7 @@
   <p>Perusahaan yang Bergerak di Bidang Keuangan dan Aset Digital</p>
 </header>
 <div style="text-align:center; margin-top: 20px;">
-  <img src="logo-rhn.png" alt="Logo RHN" style="width:150px;">
+  <img src="logo-rhn.png" alt="Logo RHN" style="width:1000px;">
 </div>
 <section>
   <h2>Visi Kami</h2>
