@@ -85,7 +85,7 @@
   <img src="logo-rhn.png" alt="Logo RHN" style="width:1000px;">
 </div>
 <section>
-  <h2>Visi Kami</h2>
+  <h1>Visi Kami</h1>
   <p>Menjadi perusahaan mandiri yang sukses mengelola aset digital dan membangun masa depan keuangan berbasis teknologi modern.</p>
 
   <h2>Misi Kami</h2>
