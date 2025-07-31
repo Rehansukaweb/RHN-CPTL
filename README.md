@@ -81,7 +81,9 @@
   <h1>RHN CPTL</h1>
   <p>Perusahaan yang Bergerak di Bidang Keuangan dan Aset Digital</p>
 </header>
-<img src="gambar_WhatsApp_2025-07-31_pukul_14.16.00.png" alt="Logo RHN" style="width:150px;">
+<div style="text-align:center; margin-top: 20px;">
+  <img src="logo-rhn.png" alt="Logo RHN" style="width:150px;">
+</div>
 <section>
   <h2>Visi Kami</h2>
   <p>Menjadi perusahaan mandiri yang sukses mengelola aset digital dan membangun masa depan keuangan berbasis teknologi modern.</p>
