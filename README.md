@@ -29,7 +29,7 @@
     }
 
     h1, h2 {
-      color: white;
+      color: black;
     }
 
     .btn {
@@ -88,7 +88,7 @@
   <h1>Visi Kami</h1>
   <p>Menjadi perusahaan mandiri yang sukses mengelola aset digital dan membangun masa depan keuangan berbasis teknologi modern.</p>
 
-  <h2>Misi Kami</h2>
+  <h1>Misi Kami</h1>
   <ul>
     <li>Mengelola dana secara mandiri dan bertanggung jawab</li>
     <li>Fokus pada portofolio aset digital yang kuat dan berkelanjutan</li>
