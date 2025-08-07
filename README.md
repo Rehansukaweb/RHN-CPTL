@@ -115,7 +115,7 @@
 
   <a href="halaman2.html" class="btn">➡BIODATA RHN CPTL</a>
   </section>
-
+<marquee>SELAMAT DATANG DI RHN CPTL</marquee>
 <footer>
   <p>© 2025 RHN CPTL. All rights reserved.</p>
 </footer>
